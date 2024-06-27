@@ -37,8 +37,14 @@ dependencies:
   flutter_bloc: ^8.1.5
   sqflite: ^2.3.3+1
   day_night_time_picker: ^1.3.1
+  flutter_launcher_icons: ^0.11.0
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.11.0
+flutter_icons:
+  android: true
+  image_path: "images/tree.png"
+  min_sdk_android: 21
   flutter_test:
     sdk: flutter
 
